@@ -1,7 +1,7 @@
 name: padiham
 favicon: null
-layout_spectrum: 0.7791782575659454
-typography_spectrum: 0.1399634969420731
+layout_spectrum: 0.75044
+typography_spectrum: 0.38632
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#94e690'
+    - '#fffe09'
+    - '#f6a706'
+    - '#2ba839'
+    - '#c53a05'
   brandStrength: 0.5896341686602682
-  lightness: 0.35033592232502997
+  lightness: 0.5625
   saturation: 0.6812330244574696
-  rhythmicContrast: 0.1885772089008242
+  rhythmicContrast: 0.25
 purpose: []
